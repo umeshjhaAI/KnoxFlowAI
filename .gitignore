@@ -1,0 +1,5 @@
+node_modules/
+.next/
+knoxflow.db
+*.tsbuildinfo
+next-env.d.ts
